@@ -1555,7 +1555,7 @@ header.main-header .header-sticky.active{
 }
 
 .testimonial-header{
-	margin-bottom: 10px;
+	/* margin-bottom: 10px; */
 }
 
 .testimonial-quote-img{
@@ -1582,11 +1582,17 @@ header.main-header .header-sticky.active{
 	border-bottom: 1px solid var(--divider-color);
 	/* margin-bottom: 30px;
 	padding-bottom: 30px; */
+	background: #fff;
+}
+.testimonial-content h6 {
+	padding: 10px 0px;
 }
 .testimonial-content h6 a{
 	font-size: 22px;
 	line-height: 30px;
 	color: #383838;
+
+
 }
 .testimonial-content p{
 	margin: 0;
