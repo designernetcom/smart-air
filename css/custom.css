@@ -1170,7 +1170,7 @@ header.main-header .header-sticky.active{
 	align-items: end;
 	justify-content: center;
 	padding: 230px 180px 0 0;
-	margin-right: 110px;
+	margin-right: 50px;
 }
 
 .our-work-image:before{
@@ -1582,15 +1582,15 @@ header.main-header .header-sticky.active{
 	border-bottom: 1px solid var(--divider-color);
 	/* margin-bottom: 30px;
 	padding-bottom: 30px; */
-	background: #fff;
+	background: #13173c;
 }
 .testimonial-content h6 {
 	padding: 10px 0px;
 }
 .testimonial-content h6 a{
-	font-size: 22px;
+	font-size: 20px;
 	line-height: 30px;
-	color: #383838;
+	color: #fff;
 
 
 }
@@ -1839,7 +1839,7 @@ header.main-header .header-sticky.active{
     /* border-width: 1px 0 1px 0; */
     /* border-style: solid; */
     /* border-color: var(--divider-color); */
-    background: #000;
+    background: #13173c;
 }
 
 /* .footer-ticker:after,
